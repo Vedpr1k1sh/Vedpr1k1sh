@@ -7,7 +7,7 @@
 
 
 - 🌱 Sharpening my skills as a Full Stach Developer.**
-  <img src="https://github.com/user-attachments/assets/5d59465a-89c7-45e1-9116-04523be5eec1" alt="Description of the GIF" width="430" align="right" />
+  <img src="https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="430" align="right" />
 - 📫 You can reach me at *vedprakashgdadghaye@gmail.com*
 
 
